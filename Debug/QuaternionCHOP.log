@@ -1,0 +1,5 @@
+﻿  QuaternionCHOP.cpp
+C:\Users\jawey\Desktop\TDworkFolder\QuaternionChop\CHOP_CPlusPlusBase.h(54,1): warning C4099: 'CHOP_PluginInfo': type name first seen using 'class' now seen using 'struct'
+C:\Users\jawey\Desktop\TDworkFolder\QuaternionChop\CHOP_CPlusPlusBase.h(53): message : see declaration of 'CHOP_PluginInfo'
+     Creating library C:\Users\jawey\Desktop\TDworkFolder\QuaternionChop\Debug\QuaternionCHOP.lib and object C:\Users\jawey\Desktop\TDworkFolder\QuaternionChop\Debug\QuaternionCHOP.exp
+  QuaternionCHOP.vcxproj -> C:\Users\jawey\Desktop\TDworkFolder\QuaternionChop\Debug\QuaternionCHOP.dll
